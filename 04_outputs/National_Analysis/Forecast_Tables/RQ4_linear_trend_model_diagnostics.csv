@@ -1,0 +1,6 @@
+IndicatorCode,KPI,Unit,N_Historical,Slope_per_Year,Intercept,R_squared
+i4213tfbbb,Fixed-broadband subscriptions,subscriptions,5,44476.1,-89334472.2,0.9834
+i4213_G100,100+ Mbit/s broadband subscriptions,subscriptions,5,70124.3,-141671349.2,0.9072
+i135tfb,Fixed-broadband Internet traffic,EB,5,0.26566850000000003,-536.0574258,0.9295
+i75,Telecommunications revenue,ALL,5,2086380221.5000005,-4190447988953.801,0.9657
+i81,Telecommunications investment,ALL,5,-1137301330.5000002,2306030946758.8003,0.7711

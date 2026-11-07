@@ -1,0 +1,6 @@
+Relationship,Status,Period,N,Pearson_r,P_value,Interpretation,Reliability_Note
+Investment vs Fixed Broadband,Primary,2020-2024,5,-0.8267,0.0843,Very strong negative,Exploratory - interpret cautiously
+Revenue vs Fixed Broadband,Primary,2020-2024,5,0.9918,0.0009,Very strong positive,Exploratory - interpret cautiously
+Fixed Data Traffic vs Fixed Broadband,Primary,2020-2024,5,0.9897,0.0013,Very strong positive,Exploratory - interpret cautiously
+FTTH/B vs 100+ Mbps Broadband,Supplementary,2022-2024,3,0.9999,0.0064,Very strong positive,Very limited sample - descriptive only
+Mobile Voice vs Mobile Data Traffic,Supplementary,2022-2024,3,-0.8227,0.385,Very strong negative,Very limited sample - descriptive only

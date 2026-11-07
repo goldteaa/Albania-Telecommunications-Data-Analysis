@@ -1,0 +1,16 @@
+IndicatorCode,KPI,Unit,Year,Projected_Value,Method
+i4213tfbbb,Fixed-broadband subscriptions,subscriptions,2025,729630.299999997,Linear trend
+i4213tfbbb,Fixed-broadband subscriptions,subscriptions,2026,774106.3999999911,Linear trend
+i4213tfbbb,Fixed-broadband subscriptions,subscriptions,2027,818582.5,Linear trend
+i4213_G100,100+ Mbit/s broadband subscriptions,subscriptions,2025,330358.3000000119,Linear trend
+i4213_G100,100+ Mbit/s broadband subscriptions,subscriptions,2026,400482.60000002384,Linear trend
+i4213_G100,100+ Mbit/s broadband subscriptions,subscriptions,2027,470606.90000000596,Linear trend
+i135tfb,Fixed-broadband Internet traffic,EB,2025,1.921286699999996,Linear trend
+i135tfb,Fixed-broadband Internet traffic,EB,2026,2.1869552000000567,Linear trend
+i135tfb,Fixed-broadband Internet traffic,EB,2027,2.4526237000000037,Linear trend
+i75,Telecommunications revenue,ALL,2025,34471959583.700195,Linear trend
+i75,Telecommunications revenue,ALL,2026,36558339805.200195,Linear trend
+i75,Telecommunications revenue,ALL,2027,38644720026.700195,Linear trend
+i81,Telecommunications investment,ALL,2025,2995752496.2998047,Linear trend
+i81,Telecommunications investment,ALL,2026,1858451165.7998047,Linear trend
+i81,Telecommunications investment,ALL,2027,721149835.2998047,Linear trend

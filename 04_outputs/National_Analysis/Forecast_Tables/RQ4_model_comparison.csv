@@ -1,0 +1,6 @@
+IndicatorCode,KPI,N,Linear_R_squared,Exponential_R_squared,CAGR_percent
+i4213tfbbb,Fixed-broadband subscriptions,5,0.9834,0.989,8.09
+i4213_G100,100+ Mbit/s broadband subscriptions,5,0.9072,0.9679,109.2
+i135tfb,Fixed-broadband Internet traffic,5,0.9295,0.9604,30.79
+i75,Telecommunications revenue,5,0.9657,0.9652,8.49
+i81,Telecommunications investment,5,0.7711,0.8327,-14.13
